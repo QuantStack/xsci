@@ -1,6 +1,6 @@
 # xsci
 
-This is a barebones repository, intended to contain some ported functions from the scientific python ecosystem.
+This is a barebones repository, intended to contain ported functions from the scientific python ecosystem.
 We are looking at scipy, scikit-image, scikit-learn and others.
 
 ## License
